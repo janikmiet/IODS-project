@@ -9,5 +9,27 @@
 date()
 
 ```
-The text continues here.
+
+### Quick thoughts
+
+
+I've have used Git + rstudio for long time. I'm interested to see how this [MOOC course](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2122-6bc9901d-e80d-4ba7-8bce-829e42c15521) works and what kind of *platform* it has. **Super excited!** `r emo::ji("smile")`
+
+My github repo for this project is located over here:
+
+- <https://github.com/janikmiet/IODS-project/tree/master>. 
+
+```{r, echo=FALSE}
+## installing new packaes and adding emojis to text :D
+# remotes::install_github("hadley/emo")
+library(emo)
+```
+
+
+
+
+
+
+
+
 
